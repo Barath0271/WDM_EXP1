@@ -1,5 +1,5 @@
 ### EX1 Creation of Employee, Weather dataset in WEKA Data Mining and Analysis Tool and perform Preprocessing
-### DATE: 
+### DATE: 08/02/2024
 ### AIM: 
   To Create Employee, Weather dataset in WEKA Data Mining and Analysis Tool and perform preprocessing
 ### PROCEDURE: 
@@ -53,6 +53,12 @@ rainy,75.0,80.0,false,yes
 8) Click on edit button which shows employee table on weka.
 
 ### OUTPUT:
+#### EMPLOYEE DATA
+![Screenshot 2024-02-08 020011](https://github.com/Barath0271/WDM_EXP1/assets/135820464/6375462b-57c1-47e0-8da7-092e3017584e)
+
+#### WEATHER DATA
+![Screenshot 2024-02-08 020847](https://github.com/Barath0271/WDM_EXP1/assets/135820464/cb590b74-61c1-42aa-9968-34f084c5282f)
+
 
 
 
@@ -75,6 +81,12 @@ rainy,75.0,80.0,false,yes
 14) Click on the Edit button, it shows a new Weather Table on Weka.
 
 ### OUTPUT:
+#### EMPLOYEE DATA
+![Screenshot 2024-02-08 023528](https://github.com/Barath0271/WDM_EXP1/assets/135820464/a0428499-1f5e-41f9-b0ad-734dbf3124f8)
+
+
+#### WEATHER DATA
+![Screenshot 2024-02-08 021752](https://github.com/Barath0271/WDM_EXP1/assets/135820464/1a6f84eb-ab21-4e5f-90c0-dc57b678b044)
 
 ### 2) Remove -> Pre-Processing Technique:
 
@@ -91,6 +103,12 @@ rainy,75.0,80.0,false,yes
 11) Click on the Edit button, it shows a new Weather Table on Weka.
 
 ### OUTPUT:
+#### EMPLOYEE DATA
+![Screenshot 2024-02-08 023709](https://github.com/Barath0271/WDM_EXP1/assets/135820464/a4386712-ba98-4856-b74d-ede4dd069ed8)
+
+
+#### WEATHER DATA
+![Screenshot 2024-02-22 144614](https://github.com/Barath0271/WDM_EXP1/assets/135820464/1c1e98fa-4836-440a-86f6-0fdaa28b3c40)
 
 ### Normalize -> Pre-Processing Technique:
 
@@ -107,5 +125,11 @@ rainy,75.0,80.0,false,yes
 11) Click on the Edit button, it shows a new Weather Table with normalized values on Weka.
 
 ### OUTPUT:
+#### EMPLOYEE DATA
+![Screenshot 2024-02-08 023834](https://github.com/Barath0271/WDM_EXP1/assets/135820464/268f75d1-62c2-41a4-a429-23cc02d8af8e)
+
+#### WEATHER DATA
+![Screenshot 2024-02-08 022912](https://github.com/Barath0271/WDM_EXP1/assets/135820464/9a3862fe-d091-4e65-82b7-23be8641d729)
+
 ### RESULT: 
   Thus the program for generating employee and weather datasets has been developed, and preprocessing has been accomplished successfully.
